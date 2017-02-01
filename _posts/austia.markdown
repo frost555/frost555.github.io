@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "План поездки"
+title:  "Поездка в Австрию"
 date:   2017-01-24 15:45:16 +0300
 ---
-
-<div>
-<iframe src="https://www.yr.no/place/Austria/Salzburg/Saalbach/external_box_hour_by_hour.html" width="850" height="430" frameborder="0" style="margin: 10px 0 10px 0" scrolling="no"></iframe>
-</div>
 
 * Содержание
 {:toc}
@@ -57,3 +53,8 @@ _Авиакомпания S7 AIRLINES уведомляет пассажиров 
 
 11 фев 2017, 21:00
 Москва, Домодедово
+
+## Погода
+<div>
+<iframe src="https://www.yr.no/place/Austria/Salzburg/Saalbach/external_box_hour_by_hour.html" width="850" height="430" frameborder="0" style="margin: 10px 0 10px 0" scrolling="no"></iframe>
+</div>

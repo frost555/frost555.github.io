@@ -6,6 +6,7 @@ date:   2017-01-24 15:45:16 +0300
 
 * Содержание
 {:toc}
+
 ## Полезные ресурсы
 [autotraveler](http://autotraveler.ru/austria/)
 

@@ -6,7 +6,6 @@ date:   2017-01-24 15:45:16 +0300
 
 <div>
 <iframe src="https://www.yr.no/place/Austria/Salzburg/Saalbach/external_box_hour_by_hour.html" width="850" height="430" frameborder="0" style="margin: 10px 0 10px 0" scrolling="no"></iframe>
-<a href="https://www.yr.no/place/Austria/Salzburg/Saalbach/">yr.no: Forecast for Saalbach</a>
 </div>
 
 * Содержание

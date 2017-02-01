@@ -5,11 +5,11 @@ date:   2017-01-24 15:45:16 +0300
 ---
 
 <div>
-  <a href="http://www.accuweather.com/ru/at/saalbach/24883/ski-current-weather/24883" class="aw-widget-legal">
+  <a href="https://www.accuweather.com/ru/at/saalbach/24883/ski-current-weather/24883" class="aw-widget-legal">
   <!--
   By accessing and/or using this code snippet, you agree to AccuWeather’s terms and conditions (in English) which can be found at http://www.accuweather.com/en/free-weather-widgets/terms and AccuWeather’s Privacy Statement (in English) which can be found at http://www.accuweather.com/en/privacy.
   -->
-  </a><div id="awtd1485955667669" class="aw-widget-36hour"  data-locationkey="24883" data-unit="c" data-language="ru" data-useip="false" data-uid="awtd1485955667669" data-editlocation="false" data-lifestyle="ski"></div><script type="text/javascript" src="http://oap.accuweather.com/launch.js"></script>
+  </a><div id="awtd1485955667669" class="aw-widget-36hour"  data-locationkey="24883" data-unit="c" data-language="ru" data-useip="false" data-uid="awtd1485955667669" data-editlocation="false" data-lifestyle="ski"></div><script type="text/javascript" src="https://oap.accuweather.com/launch.js"></script>
 </div>
 
 * Содержание

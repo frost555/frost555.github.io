@@ -3,6 +3,10 @@ layout: post
 title:  "План поездки"
 date:   2017-01-24 15:45:16 +0300
 ---
+
+<iframe src="http://forecabox.foreca.com/get/42529" width="728" height="90" marginwidth="0"
+marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
 * Содержание
 {:toc}
 
@@ -24,7 +28,7 @@ date:   2017-01-24 15:45:16 +0300
 [ИКЕА](https://goo.gl/maps/AQ75LpWgpYq)
 
 ## Скипасс
-5 из 7 дней 
+5 из 7 дней
 
 ## Вечернее катание
 Подъемник Unterschwarzachbahn в Хинтерглемме.  
@@ -33,9 +37,12 @@ date:   2017-01-24 15:45:16 +0300
 ## Достопримечательности
 
 ### На пути в Зальцбург
-[Хоэнверфен](https://goo.gl/maps/SZ1tpLYqGUA2)
+Почти ничего не работает зимой, ни замок, ни пещера )
 
 ### Зальцбург
+[TripAdvisor](https://www.tripadvisor.ru/Attractions-g190441-Activities-Salzburg_Austrian_Alps.html#ATTRACTION_SORT_WRAPPER)  
+[Старый город](https://www.tripadvisor.ru/Attraction_Review-g190441-d547502-Reviews-Salzburger_Altstadt-Salzburg_Austrian_Alps.html)  
+[Крепость Хоэнзальцбург (Festung Hohensalzburg)](https://www.tripadvisor.ru/Attractions-g190441-Activities-Salzburg_Austrian_Alps.html#ATTRACTION_SORT_WRAPPER)  
 
 ### Мюнхен
 
